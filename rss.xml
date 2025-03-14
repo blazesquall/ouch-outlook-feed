@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-    <title>The Ouch Index</title>
+    <title>The Ouch Outlook</title>
     <link>https://blazesquall.github.io/ouch-index-feed/</link>
     <description>Real-time (maybe) storm intensity predictions based on foot pain.</description>
     <language>en-us</language>
     <pubDate>Fri, 14 Mar 2025 13:37:52 CDT</pubDate>
 
     <item>
-        <title>Ouch Index Update</title>
+        <title>Ouch Outlook Update</title>
         <link>https://blazesquall.github.io/ouch-outlook-feed/</link>
         <description>Current Ouch Level: Throbbing. Incoming storm intensity predicted as Severe. Intensity not seen in over two years.</description>
         <pubDate>Fri, 14 Mar 2025 13:37:52 CDT</pubDate>
